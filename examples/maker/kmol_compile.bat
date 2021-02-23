@@ -1,0 +1,1 @@
+tcc -DSDL_MAIN_HANDLED  maker.c -lSDL2 -lSDL2_ttf

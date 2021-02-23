@@ -1,0 +1,1 @@
+tcc -DSDL_MAIN_HANDLED  zel.c -lSDL2 -lSDL2_ttf
